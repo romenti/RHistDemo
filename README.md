@@ -7,3 +7,5 @@
 
 
 **Instructors**: prof. Francesco Scalone, prof. Marco Novelli, Dr. Saverio Minardi, prof. Giambattista Salinari, Dr. Riccardo Omenti
+
+All the teaching material (slides, assignments etc.) will be uploaded on this web page. 
