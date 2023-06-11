@@ -3,7 +3,7 @@
 
 **MAIN TOPICS**: downloading and installing R and Rstudio. R language essentials. Data structures: data entry, data acquisition and preparation.
 
-R language essentials
+**R language essentials**
 
 - Defining variables
 - Assignment operator
@@ -11,7 +11,7 @@ R language essentials
 - Basic data types
 - Functions syntax
 
-Data structures, data entry and manipulation
+**Data structures, data entry and manipulation**
 
 - Vectors, matrices, lists and data frames
 - Accessing/modifying elements, filtering
