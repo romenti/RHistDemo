@@ -5,19 +5,19 @@
 
 R language essentials
 
-• Defining variables
-• Assignment operator
-• Mathematical and logical operators
-• Basic data types
-• Functions syntax
+- Defining variables
+- Assignment operator
+- Mathematical and logical operators
+- Basic data types
+- Functions syntax
 
 Data structures, data entry and manipulation
 
-• Vectors, matrices, lists and data frames
-• Accessing/modifying elements, filtering
-• Creating, loading and saving data frames
-• Describing the structure of data frames
-• Factors variables
+- Vectors, matrices, lists and data frames
+- Accessing/modifying elements, filtering
+- Creating, loading and saving data frames
+- Describing the structure of data frames
+- Factors variables
  
 
 
