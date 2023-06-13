@@ -1,5 +1,7 @@
 # INTRODUCTION TO R AND RSTUDIO
 
+**Instructor**: prof. Marco Novelli
+
 
 **MAIN TOPICS**: downloading and installing R and Rstudio. R language essentials. Data structures: data entry, data acquisition and preparation.
 
