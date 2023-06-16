@@ -5,7 +5,7 @@
 
 **Where**: Online Course
 
-**When**: June 16 – July 14 2023. (every Friday)
+**When**: June 16 – July 14 2023. (every Friday, 3-5 pm CET)
 
 **Instructors**: prof. Francesco Scalone, prof. Marco Novelli, Dr. Saverio Minardi, prof. Giambattista Salinari, Dr. Riccardo Omenti
 
