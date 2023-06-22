@@ -1,3 +1,5 @@
 # UNIVARIATE AND BIVARIATE DESCRIPTIVE ANALYSIS USING R: COMMANDS, METHODS, AND GRAPHS
- Saverio Minardi
+**Instructor**: Dr. Saverio Minardi
+
+
 
